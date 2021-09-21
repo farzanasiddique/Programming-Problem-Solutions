@@ -1,6 +1,6 @@
 Problem
 -------
-Given the root of a binary tree, return the preorder traversal of its nodes' values..
+Given the root of a binary tree, return the preorder traversal of its nodes' values.
 
 Source: https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/928/
 
